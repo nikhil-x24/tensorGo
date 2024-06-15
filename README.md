@@ -5,13 +5,13 @@
 Clone the project at
 
 ```bash
-git clone https://github.com/nikhil
+git clone https://github.com/nikhil-x24/tensorGo.git
 ```
 
 
 
+## Run for following step
 
-## Start
-
-npm start
-project will start on localhost:4000
+1-> npm install
+2-> npm start
+3-> project will start on localhost:4000
